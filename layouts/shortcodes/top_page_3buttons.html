@@ -6,34 +6,41 @@
           <div class="tpbtn-content-wrap">
             <div class="tpbtn-content-main">
               {{ $count := .Get `count` }}
+              {{/* use url1/url2/url3 for links to other pages, or id1/id2/id3 for anchors on the current page */}}
+              {{ $href1 := or (.Get "url1") (printf "#%s" (.Get "id1")) }}
+              {{ $href2 := or (.Get "url2") (printf "#%s" (.Get "id2")) }}
+              {{ $href3 := or (.Get "url3") (printf "#%s" (.Get "id3")) }}
+              {{ $active1 := eq (.Get "active") "1" }}
+              {{ $active2 := eq (.Get "active") "2" }}
+              {{ $active3 := eq (.Get "active") "3" }}
               {{ if eq $count 2 }}
               <ul class="tpbtn-content-main-button-wrap" >
                 <li>
-                  <a href="#{{ .Get `id1` }}">
-                    <button type="button" class="tpbtn-content-main-button-link " >{{ .Get "name1" }}</button>
+                  <a href="{{ $href1 }}">
+                    <button type="button" class="tpbtn-content-main-button-link{{ if $active1 }} active{{ end }}" >{{ .Get "name1" }}</button>
                   </a>
                 </li>
                 <li>
-                  <a href="#{{ .Get `id2` }}">
-                    <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name2" }}</button>
+                  <a href="{{ $href2 }}">
+                    <button type="button" class="tpbtn-content-main-button-link{{ if $active2 }} active{{ end }}">{{ .Get "name2" }}</button>
                   </a>
                 </li>
               </ul>
               {{ else if eq $count 3}}
               <ul class="tpbtn-content-main-button-wrap">
                 <li>
-                  <a href="#{{ .Get `id1` }}">
-                    <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name1" }}</button>
+                  <a href="{{ $href1 }}">
+                    <button type="button" class="tpbtn-content-main-button-link{{ if $active1 }} active{{ end }}">{{ .Get "name1" }}</button>
                   </a>
                 </li>
                 <li>
-                  <a href="#{{ .Get `id2` }}">
-                    <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name2" }}</button>
+                  <a href="{{ $href2 }}">
+                    <button type="button" class="tpbtn-content-main-button-link{{ if $active2 }} active{{ end }}">{{ .Get "name2" }}</button>
                   </a>
                 </li>
                 <li>
-                  <a href="#{{ .Get `id3` }}">
-                    <button type="button" class="tpbtn-content-main-button-link">{{ .Get "name3" }}</button>
+                  <a href="{{ $href3 }}">
+                    <button type="button" class="tpbtn-content-main-button-link{{ if $active3 }} active{{ end }}">{{ .Get "name3" }}</button>
                   </a>
                 </li>
               </ul>

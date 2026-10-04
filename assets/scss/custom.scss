@@ -821,6 +821,10 @@ cursor: pointer;
   @apply border-head bg-head dark:border-darkmode-primary dark:text-dark text-white dark:bg-white;
 }
 
+.tpbtn-content-main-button-link.active {
+  opacity: 0.6;
+  cursor: default;
+}
 
 @media all and (max-width: 768px) {
   .tpbtn-content-wrap { 

@@ -1,0 +1,86 @@
+---
+title: "Results archive"
+meta_title: ""
+description: "Result archive of the Head of the River Amstel"
+draft: false
+---
+{{< top_page_3buttons count=3 active="1" url1="../uitslagen_archief/" name1="Results" url2="../winnaars/" name2="Winners" url3="../posters/" name3="Posters" >}}
+### Results
+Below you will find the results of the Head of the River Amstel of the past years.
+
+{{< accordion "Results 2026" >}}
+The results of the Head of the River Amstel 2026 can be viewed via the link below.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2026/results/events.php" target="_blank"><img alt="" src="https://time-team.nl/inc/img/timeteam/time-team.gif" width="400"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2025" >}}
+
+The results of the Head of the River Amstel 2025 can be viewed via the link below.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2025/results/events.php" target="_blank"><img alt="Time-Team" src="https://regatta.time-team.nl/inc/img/header.png" style="background-color: rgb(63, 120, 227); padding: 5px;"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2024" >}}
+
+The results of the Head of the River Amstel 2024 can be viewed via the link below.
+.
+
+<a href="https://hoesnelwasik.nl/head/2024/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2023" >}}
+
+The results of the Head of the River Amstel 2023 can be viewed via the link below.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2023/results/events.php" target="_blank"><img alt="Time-Team" src="https://regatta.time-team.nl/inc/img/header.png" style="background-color: rgb(63, 120, 227); padding: 5px;"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2022" >}}
+
+The results of the Head of the River Amstel 2022 can be viewed via the link below.
+
+<a href="https://regatta.time-team.nl/headoftheriveramstel/2022/results/events.php" target="_blank"><img alt="Time-Team" src="https://regatta.time-team.nl/inc/img/header.png" style="background-color: rgb(63, 120, 227); padding: 5px;"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2021" >}}
+
+Due to COVID-19, the Head of the River Amstel 2021 was cancelled. 
+However, this year a Virtual Head of the River was organised. Please check the results below.
+
+<div class="row items-center justify-between">
+    <div class="md:col-6 py-10" style="background-image: url('virtualhead/Kaart_TimeTeam_NL_OP50perc.png'); background-size:cover;">
+    <a href="https://rowingtracker.com/hotr/2021" target="_blank"><img alt="Kaartuitslagen Virtual Head 2021" src="virtualhead/hotr2021_ENG_resultaatMapView_1.png" width="519"></a>
+    </div>
+    <div class="md:col-6 py-10" style="background-image: url('virtualhead/stille-amstel-rembrandttoren-Head.cr.hvg.jpg'); background-size:cover;">
+    <a href="https://regatta.time-team.nl/hotr/2021/index.php" target="_blank"><img alt="Tabeluitslagen Virtual Head 2021" height="54" src="virtualhead/hotr2021_ENG_resultaatTABEL_1.png" width="519"></a>
+  </div>
+</div>
+
+
+{{< /accordion >}}
+
+{{< accordion "Results 2020" >}}
+
+Due to COVID-19, the Head of the River Amstel 2020 was cancelled.
+
+{{< /accordion >}}
+
+{{< accordion "Results 2019" >}}
+
+Due to bad weather, the saturday of the Head of the River Amstel 2019 was cancelled. The results of the sunday races can be viewed via the link below.
+
+<a href="https://hoesnelwasik.nl/head/2019/uitslagen#blocks" target="_blank"><img alt="" height="54" src="https://poweredbyiris.nl/wp-content/uploads/2014/04/banner_poweredbyiris1.png" width="519"></a>
+
+{{< /accordion >}}
+
+{{< accordion "Results 2018" >}}
+
+Due to cold weather and ice on the water, the Head of the River Amstel 2018 was cancelled.
+
+{{< /accordion >}}

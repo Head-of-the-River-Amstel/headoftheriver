@@ -10,7 +10,7 @@ menu:
 ---
 ## Live Uitslagen
 Zodra de Head of the River is gestart zal je hier live de uitslagen kunnen volgen.   
-Kijk voor uitslagen van de afgelopen edities op ons [Uitslagenarchief](../../over/uitslagenarchief/).   
+Kijk voor uitslagen van de afgelopen edities in ons [Archief](../../over/archief/uitslagen/).    
 
 <!-- Direct als de wedstrijd begonnen is kan je via onderstaande link live de uitslagen volgen.
 

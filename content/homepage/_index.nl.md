@@ -12,7 +12,7 @@ quick_links:
   ql_col2: Deelnemers
   ql_col2_link: "deelnemers/"
   ql_col3: Uitslagen
-  ql_col3_link: "over/uitslagenarchief"
+  ql_col3_link: "over/archief/uitslagen"
 
 # Message
 message:
