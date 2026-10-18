@@ -1,7 +1,7 @@
 <!doctype html>
 <html
   itemscope
-  lang="{{ site.LanguageCode | default `en-US` }}"
+  lang="{{ site.Language.Locale | default `en-US` }}"
   itemtype="http://schema.org/WebPage">
   <head>
     <!-- head (don't cache it) -->
@@ -49,10 +49,7 @@
 </html>  */}}
 
 
-<!-- webshop -->
-{{- $js := resources.Get "js/webshop.js" -}}
-<script src="{{ $js.Permalink }}"></script>
-<script type="text/javascript">updateCartCount();</script>
+<!-- lightbox -->
 {{- $js := resources.Get "js/lightbox.js" -}}
 <script src="{{ $js.Permalink }}"></script>
 
