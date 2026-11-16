@@ -9,7 +9,7 @@ photo:
   image: /images/nieuws/2025/IMGP5863 (Large).jpg
   photographer: Theo van Stal
 categories:
-  - "2025"
+  - "2027"
   - All
 author: Guido
 ---
