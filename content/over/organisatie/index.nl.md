@@ -18,8 +18,8 @@ positions:
     name: "Andre Mulder"
     image: "images/organisatie/andre.jpg"
   - title: Penningmeester
-    name: "Gijs Andringa"
-    image: "images/organisatie/gijs.jpg"
+    name: "Victor Maes"
+    image: "images/organisatie/victor.jpg" 
   - title: Wedstrijdsecretaris
     name: "Nicole Feller"
     image: "images/organisatie/nicoleF.jpg"
@@ -27,29 +27,20 @@ positions:
     name: "Ivo Kessler"
     image: "images/organisatie/ivo.jpg"
   - title: Baancommissaris
-    name: "Kevin de Rijke"
-    image: "images/organisatie/kevin.jpg" 
+    name: "Sven Hillecamp"
+    image: "images/organisatie/sven.jpg" 
   - title: Vrijwilligers
     name: "Marjon Nooter"
     image: "images/organisatie/marjon.jpg" 
   - title: Catering
-    name: "Judith Gelmers"
-    image: "images/organisatie/judith.jpg"        
+    name: "Ilayda Yildirim"
+    image: ""        
   - title: Communicatie
     name: "Nicole Opreij"
     image: "images/organisatie/nicoleO2.jpg"    
-  - title: Veiligheid
-    name: "Ernst Schutte"
-    image: "images/organisatie/ernst.jpg"     
-  - title: Vergunningen
-    name: "Thijs Verburg"
-    image: "images/organisatie/thijs2.jpg"  
-  - title: --
-    name: "Victor Maes"
-    image: "images/organisatie/victor.jpg"  
-  - title: Baancommissie
-    name: "Sven Hillecamp"
-    image: "images/organisatie/sven.jpg" 
+  - title: Veiligheid en vergunningen
+    name: "Eelco Luxwolda"
+    image: ""     
   - title: Webbeheer / Baan
     name: "Guido van der Salm"
     image: "images/organisatie/guido.jpg" 

@@ -7,8 +7,8 @@ slider:
 
 # Quick links menu
 quick_links:
-  ql_col1: Media
-  ql_col1_link: "over/media/"
+  ql_col1: Pre-registration
+  ql_col1_link: "deelnemers/inschrijving/"
   ql_col2: Participants
   ql_col2_link: "deelnemers/"
   ql_col3: Results

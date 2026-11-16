@@ -26,4 +26,5 @@ Kan jij door de bomen altijd het bos nog zien? Help orde scheppen op het vlot, z
 Voor, tijdens en na de wedstrijd communiceren we volop met de deelnemers, toeschouwers en omwonenden en daarvoor hebben we specifieke hulp nodig. We zijn op zoek naar een _Tik Tok specialist_ voor inspirerende content, liefst een roeier die aan de Head deelneemt; een _tekstschrijver_ die mooie verhalen vertelt; een _graphic designer_ die helpt met het vormgeven van een sterk merk; _cameramensen_ voor de ondersteuning van de live registratie. Voor belangstelling en vragen mail naar communicatie@headoftheriver.nl .
 
 ### Inschrijfformulier
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3goF4fQ3USesk1aZlwMTvsFAIYrm4epHfPLTfld8kd6X4mg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3goF4fQ3USesk1aZlwMTvsFAIYrm4epHfPLTfld8kd6X4mg/viewform?embedded=true" width="640" height="2250" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
+In aanloop naar de Head of the River zal er een nieuw formulier beschikbaarkomen om je op te geven als vrijwilliger. Houd de website in de gaten voor de meest actuele informatie.

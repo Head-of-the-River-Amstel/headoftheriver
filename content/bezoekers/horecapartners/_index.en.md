@@ -7,7 +7,7 @@ menus:
   main:
     parent: Visitors
     weight: 30
-draft: false
+draft: true
 build:
   render: ""
 
