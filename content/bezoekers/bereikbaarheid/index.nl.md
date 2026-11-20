@@ -12,13 +12,13 @@ menu:
 
 <hr style="border:1px solid #62B0E2; margin-top:20px; margin-bottom:30px">
 
-{{< notice "waarschuwing" >}}
+<!-- {{< notice "waarschuwing" >}}
 De voetgangersbrug tussen RIC en de Jan Vroegopsingel zal ook tijdens de Head of the River 2026 afgesloten zijn voor alle verkeer. Er wordt geadviseerd om te lopen via de Amstelstroomlaan.   
 {{< /notice >}}
 
 {{< figure src="images/omlopen_W3_RIC.jpg" caption="" alt="alter-text" height="" width="50%" position="center" command="" option="q100" class="" title=""  webp="false" >}}
 
-<div id="org_section" style="padding-top:140px; margin-top:-140px">
+<div id="org_section" style="padding-top:140px; margin-top:-140px"> -->
 
 ### Organisatie
 De organisatie van de Head of the River Amstel bevindt zich in de werkplaats van het verenigingsgebouw van roeivereniging Willem III (het Headcafe). Hier zijn onder andere de rugnummers verkrijgbaar en is ander overleg met de organisatie en de Jury mogelijk.
